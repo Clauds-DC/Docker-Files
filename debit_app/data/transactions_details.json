@@ -1,0 +1,100 @@
+[
+  {
+    "card_account_no": "6684-5373-6011",
+    "txn_date": "9/15/2024 1:00PM",
+    "txn_type": "debit",
+    "txn_amount": 100.0,
+    "txn_description": "Initial Deposit"
+  },
+  {
+    "card_account_no": "0986-2381-7570",
+    "txn_date": "9/16/2024 2:00PM",
+    "txn_type": "debit",
+    "txn_amount": 1000.0,
+    "txn_description": "Initial Deposit"
+  },
+  {
+    "card_account_no": "0986-2381-7570",
+    "txn_date": "9/16/2024 3:00PM",
+    "txn_type": "credit",
+    "txn_amount": 100.5,
+    "txn_description": "Penge mmy"
+  },
+  {
+    "card_account_no": "0986-2381-7570",
+    "txn_date": "2024-09-15 18:24:58",
+    "txn_type": "debit",
+    "txn_amount": 10.5,
+    "txn_description": "para mag 910"
+  },
+  {
+    "card_account_no": "0986-2381-7570",
+    "txn_date": "2024-09-15 18:26:45",
+    "txn_type": "debit",
+    "txn_amount": 10.5,
+    "txn_description": "para mag 910"
+  },
+  {
+    "card_account_no": "0986-2381-7570",
+    "txn_date": "2024-09-15 18:30:44",
+    "txn_type": "credit",
+    "txn_amount": 20.5,
+    "txn_description": "para mag 900"
+  },
+  {
+    "card_account_no": "6684-5373-6011",
+    "txn_date": "2024-09-15 18:31:59",
+    "txn_type": "debit",
+    "txn_amount": 2000.0,
+    "txn_description": "zzzz"
+  },
+  {
+    "card_account_no": "9674-0108-3418",
+    "txn_date": "2024-09-16 09:24:48",
+    "txn_type": "debit",
+    "txn_amount": 1000.0,
+    "txn_description": "cash deposit"
+  },
+  {
+    "card_account_no": "9674-0108-3418",
+    "txn_date": "2024-09-16 09:37:33",
+    "txn_type": "debit",
+    "txn_amount": 20.0,
+    "txn_description": "mcdo"
+  },
+  {
+    "card_account_no": "9674-0108-3418",
+    "txn_date": "2024-09-16 09:52:57",
+    "txn_type": "debit",
+    "txn_amount": 200.5,
+    "txn_description": "7/11"
+  },
+  {
+    "card_account_no": "9938-2633-2016",
+    "txn_date": "2024-09-25 09:32:44",
+    "txn_type": "debit",
+    "txn_amount": 1000.0,
+    "txn_description": "mcdo"
+  },
+  {
+    "card_account_no": "9674-0108-3418",
+    "txn_date": "2024-09-25 10:07:59",
+    "txn_type": "debit",
+    "txn_amount": 18000.0,
+    "txn_description": "add"
+  },
+  {
+    "card_account_no": "9674-0108-3418",
+    "txn_date": "2024-09-25 10:10:11",
+    "txn_type": "credit",
+    "txn_amount": 150000.0,
+    "txn_description": "add"
+  },
+  {
+    "card_account_no": "9674-0108-3418",
+    "txn_date": "2024-09-25 10:11:28",
+    "txn_type": "debit",
+    "txn_amount": 1000.0,
+    "txn_description": "less"
+  }
+]

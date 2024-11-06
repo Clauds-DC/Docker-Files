@@ -1,0 +1,17 @@
+[
+  {
+    "card_account_no": "10001",
+    "card_name": "Claudine Dela Cruz",
+    "card_status": true
+  },
+  {
+    "card_account_no": "10002",
+    "card_name": "James Dela Cruz",
+    "card_status": true
+  },
+  {
+    "card_account_no": "9272-9204-7307",
+    "card_name": "Cristina Dela Cruz",
+    "card_status": true
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "card_account_no": "6684-5373-6011",
+    "card_name": "Claudine Dela Cruz",
+    "card_status": "activated"
+  },
+  {
+    "card_account_no": "0986-2381-7570",
+    "card_name": "James Dela Cruz",
+    "card_status": "activated"
+  },
+  {
+    "card_account_no": "7236-1940-8372",
+    "card_name": "Venj",
+    "card_status": "deactivated"
+  },
+  {
+    "card_account_no": "9674-0108-3418",
+    "card_name": "venj",
+    "card_status": "activated"
+  },
+  {
+    "card_account_no": "9938-2633-2016",
+    "card_name": "Paolo",
+    "card_status": "deactivated"
+  }
+]
